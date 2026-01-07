@@ -38,3 +38,15 @@ If you want to change it to the default put the number 200.
 The Change size function is alsooo pretty straight forward! Heres an example of code.
 ```CapuLib.Modules.Player.ChangeSize(1)```
 It is pretty obvious that the lower the number is the smaller you are, and the bigger the number is the bigger you are.
+
+### Send Vibration & Click sound:
+The send vibration function is the way you are able to vibrate the controller.
+```CapuLib.Modules.Player.SendVibration(true)```
+the boolean at the end is to decide if you want to send it to the left controller or the right controller.
+true = Left Controller
+false = Right Controller
+There is also another function similar to this that is used in the buttons!
+```CapuLib.Modules.Player.ClickSound(true, 0)```
+Keep the 0 as 0.
+
+More documentation later.
