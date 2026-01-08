@@ -49,4 +49,42 @@ There is also another function similar to this that is used in the buttons!
 ```CapuLib.Modules.Player.ClickSound(true, 0)```
 Keep the 0 as 0.
 
-More Player Module Documentation Later.
+### Disable the movement
+This function disables the movement of the player
+```CapuLib.Modules.Player.DisableMovement(false)```
+This example here was me enabling the movement
+to disable it
+```CapuLib.Modules.Player.DisableMovement(true)```
+
+### Change Health
+Its so easy, normal health is 100, the health when you die is 0.
+```CapuLib.Modules.Player.ChangeHealth(100)```
+
+### Control gravity
+```CapuLib.Modules.Player.ControlGravity(true)```
+im so lazy
+
+### Control Physics
+```CapuLib.Modules.Player.ControlPhysics(true)```
+sadjksadhjqdwqjk
+
+## Controls Module
+
+The controls module is actually really simple.
+
+Heres an example:
+
+```if (CapuLib.Modules.Controls.InputName)```
+```{```
+  ```code here```
+```}```
+
+Heres the list of input names
+BButton
+AButton
+XButton
+YButton
+RGrip
+LGrip
+RTrigger
+LTrigger
