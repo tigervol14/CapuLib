@@ -49,4 +49,4 @@ There is also another function similar to this that is used in the buttons!
 ```CapuLib.Modules.Player.ClickSound(true, 0)```
 Keep the 0 as 0.
 
-More documentation later.
+More Player Module Documentation Later.
