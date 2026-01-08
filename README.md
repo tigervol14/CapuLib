@@ -8,7 +8,9 @@
 ---
 
 <p align="center">
+	<a href="https://github.com/tigervol14/CapuLib/releases"><img src="https://img.shields.io/github/v/release/tigervol14/CapuLib?label=version&style=for-the-badge"></a>
 	<a href="https://discord.gg/Y8B3U4zpFZ"><img src="https://img.shields.io/discord/1457781722593628254?label=discord&style=for-the-badge&color=blueviolet"></a>
+	<a href="https://github.com/tigervol14/CapuLib/releases/latest"><img src="https://img.shields.io/github/downloads/tigervol14/CapuLib/latest/CapuLib.dll?style=for-the-badge"></a>
 </p>
 
 # CaPuLiB!
