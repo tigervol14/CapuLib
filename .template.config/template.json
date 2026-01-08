@@ -1,0 +1,37 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "HanSolo1000Falcon",
+  "classifications": [ "Library", "C#" ],
+  "identity": "org.hansolo1000falcon.capumelontemp",
+  "name": "Capuchin Melon Loader Mod Template",
+  "shortName": "capu-melon-temp",
+  "sourceName": "CapuchinMelonLoaderTemplate",
+  "tags": {
+    "language": "C#",
+    "type": "project"
+  },
+  "preferNameDirectory": true,
+  "symbols": {
+    "Mod Name": {
+      "type": "parameter",
+      "dataType": "string",
+      "defaultValue": "MyCapuchinMod",
+      "description": "The name of your Capuchin mod.",
+      "replaces": "MODNAMEREPLACEMEPLEASE"
+    },
+    "Author Name": {
+        "type": "parameter",
+        "dataType": "string",
+        "defaultValue": "AuthorName",
+        "description": "The name of the author of your Capuchin mod. (usually just your GitHub username)",
+        "replaces": "AUTHORNAMEREPLACEMEPLEASE"
+    },
+    "Game Installation Path": {
+      "type": "parameter",
+      "dataType": "string",
+      "defaultValue": "D:\\Spel\\Steam\\steamapps\\common\\Capuchin",
+      "description": "The path to your Capuchin game installation.",
+      "replaces": "GAMEPATHREPLACEMEPLEASE"
+    }
+  }
+}
