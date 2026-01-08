@@ -1,3 +1,10 @@
+<p align="center">
+  <a href="#"><img src="logo.png"></a>
+</p>
+
+---
+
+
 # CaPuLiB!
 
 Capulib is a library mod that is made for mod creators to make mod creation an easier experience! 
