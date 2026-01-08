@@ -1,9 +1,12 @@
 <p align="center">
-  <a href="#"><img src="logo.png"></a>
+  <a href="#"><img src="logo.png" width="500"></a>
 </p>
 
 ---
 
+<p align="center">
+	<a href="https://discord.gg/Y8B3U4zpFZ"><img src="https://img.shields.io/discord/1457781722593628254?label=discord&style=for-the-badge&color=blueviolet"></a>
+</p>
 
 # CaPuLiB!
 
